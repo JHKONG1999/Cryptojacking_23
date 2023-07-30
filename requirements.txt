@@ -6,6 +6,6 @@ Plost==0.2.5
 plotly==4.14.1
 scikit_learn==0.23.2
 seaborn==0.11.1
-streamlit==1.25.0
+streamlit==1.10.0
 streamlit_option_menu==0.3.2
 
