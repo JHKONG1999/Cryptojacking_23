@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pickle
 import plost
-import altair as alt
+import altair.vegalite.v4 as alt
 
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as html
